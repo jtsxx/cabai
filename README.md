@@ -1,8 +1,6 @@
-# CABAI
+# Retired
 
-Official site files. Repo owner: [jtsxx](https://github.com/jtsxx).
+This repo is the old CAB AI Pages site. Live project:
+https://jtsxx.github.io/
 
-Live URL after Pages is on:
-https://jtsxx.github.io/cabai/
-
-If that 404s, open the repo on your phone → Settings → Pages → Source: GitHub Actions (or Deploy from branch `main` / root).
+To delete this repository entirely: GitHub → jtsxx/cabai → Settings → General → Danger Zone → Delete this repository.
